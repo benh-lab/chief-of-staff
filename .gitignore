@@ -1,0 +1,19 @@
+# Your own setup (written by SETUP.md). Remove these lines in a private copy if you want them versioned.
+/config.md
+/config/
+/TASKS.md
+/PROJECTS.md
+/domains/*.md
+!/domains/README.md
+/house-rules/*.md
+!/house-rules/README.md
+!/house-rules/examples/
+/state/days/*.md
+/state/last-brief.txt
+/state/runs/
+/state/briefs/
+/.claude/settings.local.json
+.env
+.env.*
+*.log
+.DS_Store
